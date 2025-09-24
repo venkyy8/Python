@@ -57,26 +57,26 @@ It listens for comments on GitHub issues, and if a comment contains **only** `/j
 * Python 3, pip installed
 
 
-![A](images/Jira-frontpage.png)
+![A](../../images/Jira-frontpage.png)
 
-![A](images/jira-project.png)
+![A](../../images/jira-project.png)
 
-![A](images/public-ip.png)
+![A](../../images/public-ip.png)
 
 
 #### Creation of API token in JIRA:
 
-![A](images/creating-api-1.png)
+![A](../../images/creating-api-1.png)
 
-![A](images/creating-api-2.png)
+![A](../../images/creating-api-2.png)
 
-![A](images/creating-api-3.png)
+![A](../../images/creating-api-3.png)
 
 
 #### Fetching Project Key of our current project:
 
 
-![A](images/project-key.png)
+![A](../../images/project-key.png)
 
 
 
@@ -148,11 +148,11 @@ Click **Add webhook**
 #### Creating GitHub WebHook
 
 
-![A](images/Github-Webhook-1.png)
+![A](../../images/Github-Webhook-1.png)
 
-![A](images/Github-Webhook-2.png)
+![A](../../images/Github-Webhook-2.png)
 
-![A](images/Github-Webhook-3.png)
+![A](../../images/Github-Webhook-3.png)
 
 
 
@@ -168,9 +168,9 @@ Click **Add webhook**
 * The issue title and link are included in the Jira ticket.
 
 
-![A](images/issue-1.png)
+![A](../../images/issue-1.png)
 
-![A](images/issue-2.png)
+![A](../../images/issue-2.png)
 
 ---
 
@@ -186,7 +186,7 @@ Click **Add webhook**
 | `hello /jira`     | ❌ No                |
 
 
-![A](images/console-logs-1.png)
+![A](../../images/console-logs-1.png)
 
 
 ---
